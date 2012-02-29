@@ -1,0 +1,5 @@
+WTF RANT WTF WTF WTF RANT!
+
+..probably because sys.stdout.encoding is None in some cases. In some other
+cases, it's just blatantly stupid stuff that happens. ARGHARGHARH!11!1eleven!
+
