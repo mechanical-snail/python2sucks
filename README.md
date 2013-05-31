@@ -1,9 +1,11 @@
 # PYTHON 2 SUCKS
 
+# 💩❢
+
 ## WTF RANT WTF *WTF* WTF RANT!
 
 ..probably because `sys.stdout.encoding` is `None` in some cases. In some other
-cases, it's just blatantly stupid stuff that happens. ARGH<em>ARGH</em><strong>ARGH</strong>!11!<strong>!!!</strong>1eleven!
+cases, it's just blatantly stupid stuff that happens. ARGH<em>ARGH</em><strong>ARGH</strong>!11!<strong>!!!</strong>1eleven!‽‽‽‽
 
 
 > I've personally (hopefully) solved this in:  
